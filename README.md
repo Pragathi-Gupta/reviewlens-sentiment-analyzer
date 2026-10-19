@@ -21,3 +21,11 @@ Python, Hugging Face Transformers, Gradio, Pandas
 ```bash
 pip install -r requirements.txt gradio
 python app.py
+```
+## Screenshots
+
+![Single review](sample-1.png)
+
+![CSV dashboard](sample-2.png)
+
+![Colab notebook](sample-3.png)
